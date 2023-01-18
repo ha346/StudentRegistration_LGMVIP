@@ -1,0 +1,1 @@
+This directory is a student registration page using a model whose data displays on same page.
